@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=LightYe4r%20Github&fontSize=90)
 
+
 ### 📋 **About Me**
-- 🌱 현재 **[포트폴리오 사이트[CELLs]]**를 작업하고 있습니다.
-- 👨‍💻 **[Cloud native]**에 열정을 가지고 있습니다.
+- Hanyang Univ(ERICA) graduated
+- AWS Cloud School 4th
+- LG Aimers
 
 ### 🔧 **Tech Stack**
 | **분류**             | **기술 스택**                                                                                                                                                            |
@@ -19,7 +21,11 @@
 - **Current Focus:**  
   ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white&style=flat)
   ![Node.js](https://img.shields.io/badge/-Nodejs-5FA04E?logo=nodejs&logoColor=white&style=flat)
-
+  
+- **Next Steps:**  
+  ![Mimir](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
+  ![AWS Fargate](https://img.shields.io/badge/-AWS%20Fargate-FF9900?logo=awsfargate&logoColor=white&style=flat)
+  
 ### 📈 **GitHub 통계**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightye4r&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightye4r&show_icons=true&theme=radical)
